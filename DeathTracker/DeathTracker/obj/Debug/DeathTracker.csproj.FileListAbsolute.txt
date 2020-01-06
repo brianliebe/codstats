@@ -1,0 +1,8 @@
+C:\Users\brian\source\repos\DeathTracker\DeathTracker\bin\Debug\DeathTracker.exe
+C:\Users\brian\source\repos\DeathTracker\DeathTracker\bin\Debug\DeathTracker.pdb
+C:\Users\brian\source\repos\DeathTracker\DeathTracker\obj\Debug\DeathTracker.csprojAssemblyReference.cache
+C:\Users\brian\source\repos\DeathTracker\DeathTracker\obj\Debug\DeathTracker.Properties.Resources.resources
+C:\Users\brian\source\repos\DeathTracker\DeathTracker\obj\Debug\DeathTracker.csproj.GenerateResource.cache
+C:\Users\brian\source\repos\DeathTracker\DeathTracker\obj\Debug\DeathTracker.exe
+C:\Users\brian\source\repos\DeathTracker\DeathTracker\obj\Debug\DeathTracker.pdb
+C:\Users\brian\source\repos\DeathTracker\DeathTracker\obj\Debug\DeathTracker.DeathTracker.resources

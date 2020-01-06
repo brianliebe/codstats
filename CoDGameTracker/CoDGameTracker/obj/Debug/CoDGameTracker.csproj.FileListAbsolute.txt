@@ -1,0 +1,11 @@
+C:\Users\brian\source\repos\CoDGameTracker\CoDGameTracker\bin\Debug\CoDGameTracker.exe
+C:\Users\brian\source\repos\CoDGameTracker\CoDGameTracker\bin\Debug\CoDGameTracker.pdb
+C:\Users\brian\source\repos\CoDGameTracker\CoDGameTracker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\brian\source\repos\CoDGameTracker\CoDGameTracker\bin\Debug\Newtonsoft.Json.xml
+C:\Users\brian\source\repos\CoDGameTracker\CoDGameTracker\obj\Debug\CoDGameTracker.Tracker.resources
+C:\Users\brian\source\repos\CoDGameTracker\CoDGameTracker\obj\Debug\CoDGameTracker.Properties.Resources.resources
+C:\Users\brian\source\repos\CoDGameTracker\CoDGameTracker\obj\Debug\CoDGameTracker.csproj.GenerateResource.cache
+C:\Users\brian\source\repos\CoDGameTracker\CoDGameTracker\obj\Debug\CoDGameTracker.csproj.CopyComplete
+C:\Users\brian\source\repos\CoDGameTracker\CoDGameTracker\obj\Debug\CoDGameTracker.exe
+C:\Users\brian\source\repos\CoDGameTracker\CoDGameTracker\obj\Debug\CoDGameTracker.pdb
+C:\Users\brian\source\repos\CoDGameTracker\CoDGameTracker\obj\Debug\CoDGameTracker.csprojAssemblyReference.cache
