@@ -1,2 +1,0 @@
-20200105183137,Atlanta FaZe,Toronto Ultra,6,7,Allegiance
-20200105183137,Toronto Ultra,Atlanta FaZe,7,6,Coalition
